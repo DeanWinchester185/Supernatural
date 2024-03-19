@@ -63,3 +63,33 @@ body{
     font-size: 20px;    
     text-align: center;
 }
+.block2{
+    margin-top: 50px;
+    display: flex;
+    color: white;
+    font-family: "Jost";
+    font-size: 24px;
+    flex-direction: column;
+    width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img{
+    display: flex;
+}
+.image{
+    width: 230px;
+    height: 160px;
+}
+.image-rad1{
+    width: 230px;
+    height: 160px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.image-rad2{
+    width: 230px;
+    height: 160px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
