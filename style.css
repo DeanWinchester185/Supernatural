@@ -13,3 +13,53 @@ body{
 .line{
     border-color: #FF7A00;
 }
+.line1{
+    border-color: #FF7A00;
+    margin-top: 80px;
+}
+.block1{
+    margin-top: 40px;
+    display: flex;
+    color: white;
+    font-family: "Jost";
+    justify-content: center;
+    margin-right: 20em;
+}
+.poster{
+    display: flex;
+    border-radius: 5px;
+    width: 320px;
+    height: 450px;
+}
+.text{
+    margin-left: 50px;
+}
+
+.back{
+    margin-top: 50px;
+    height: 53px;
+    width: 220px;
+    background-color: white;
+    border-radius: 5px;
+    color: #14FF00;
+    display: flex;
+}
+.back button{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Jost";
+    color: white;
+    border: none;
+    width: 161px;
+    height: 53px;
+    border-radius: 5px;
+    background-color: #FF7A00;
+}
+.back p{
+    display: flex;
+    font-family: "Jost";
+    font-weight: 600;
+    margin: 12px 0px 0px 15px;
+    font-size: 20px;    
+    text-align: center;
+}
