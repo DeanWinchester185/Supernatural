@@ -101,7 +101,7 @@ body{
     margin-right: 10em;
 }
 .logo2{
-    margin-left: 10em;
+    margin-left: 8em;
     display: flex;
     width: 270px;
     height: 50px;
@@ -111,5 +111,21 @@ footer{
     padding-bottom: 70px;
     display: flex;
     justify-content: space-between;
-
+}
+.player{
+    margin-top: 30px;
+    display: flex;
+    color: white;
+    font-family: "Jost";
+    justify-content: center;
+}
+.videos{
+    display: flex;
+    flex-direction: column;
+}
+.video{
+    display: flex;
+    margin-top: 20px;
+    width: 1150px;
+    height: 538px;
 }
